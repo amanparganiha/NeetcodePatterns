@@ -52,6 +52,7 @@ To master pattern-based DSA thinking and build strong coding intuition for top t
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/amanparganiha/NeetcodePatterns/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/amanparganiha/NeetcodePatterns/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/amanparganiha/NeetcodePatterns/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -85,4 +86,8 @@ To master pattern-based DSA thinking and build strong coding intuition for top t
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/amanparganiha/NeetcodePatterns/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/amanparganiha/NeetcodePatterns/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
