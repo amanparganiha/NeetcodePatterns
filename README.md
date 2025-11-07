@@ -25,6 +25,7 @@ To master pattern-based DSA thinking and build strong coding intuition for top t
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amanparganiha/NeetcodePatterns/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/amanparganiha/NeetcodePatterns/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/amanparganiha/NeetcodePatterns/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/amanparganiha/NeetcodePatterns/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/amanparganiha/NeetcodePatterns/tree/master/0049-group-anagrams) |
@@ -92,6 +93,7 @@ To master pattern-based DSA thinking and build strong coding intuition for top t
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amanparganiha/NeetcodePatterns/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/amanparganiha/NeetcodePatterns/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/amanparganiha/NeetcodePatterns/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanparganiha/NeetcodePatterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -99,4 +101,8 @@ To master pattern-based DSA thinking and build strong coding intuition for top t
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanparganiha/NeetcodePatterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/amanparganiha/NeetcodePatterns/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
